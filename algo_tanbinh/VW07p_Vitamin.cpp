@@ -1,4 +1,4 @@
-https://khmt.uit.edu.vn/wecode/algobootcamp/assignment/4/10
+//https://khmt.uit.edu.vn/wecode/algobootcamp/assignment/4/10
 
 #include<bits/stdc++.h>
 using namespace std;
