@@ -3,7 +3,7 @@
 	- Tổng 9 ô: s[i][j]-s[i][j-3]-s[i-3][j]+s[i-3][j-3]
 
 2. VW04p_Checkout(test bị sai số): 
-	- Từ công thức tính vận tốc và gia tốc, xây dựng phương trình bậc 2 để tính vận tốc: (a1+a2)/(2*a1*a2)*x^2 + t*x + - D = 0
+	- Từ công thức tính vận tốc và gia tốc, xây dựng phương trình bậc 2 để tính vận tốc: (a1+a2)/(2*a1*a2)*x^2 + t*x - D = 0
 	- Sau khi có vận tốc, tìm thời gian tối thiểu cần thiết.
 
 3. VW07p_Vitamin:
