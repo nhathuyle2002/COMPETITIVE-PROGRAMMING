@@ -1,0 +1,16 @@
+1. VW05p_Enrichement:
+	- Quy hoạch động tổng tiền tố: s[i][j]=s[i-1][j]+s[i][j-1]-s[i-1][j-1]
+	- Tổng 9 ô: s[i][j]-s[i][j-3]-s[i-3][j]+s[i-3][j-3]
+
+2. VW04p_Checkout(test bị sai số): 
+	- Từ công thức tính vận tốc và gia tốc, xây dựng phương trình bậc 2 để tính vận tốc: (a1+a2)/(2*a1*a2)*x^2 + t*x + - D = 0
+	- Sau khi có vận tốc, tìm thời gian tối thiểu cần thiết.
+
+3. VW07p_Vitamin:
+	- Quy hoạch động với i<=n-1: d[x]=d[x-a[i-1]]+i+1, với x là tổng hiện tại và d[x] là min way.
+	- Với i=n: nếu ((MAXX-x-a[n-1])%a[n]==0) thì d[MAXX]=min(d[MAXX], d[x]+(MAXX-x-a[n-1])/a[n]+n)
+	- Kết quả là d[MAXX]-1.
+
+
+	
+
