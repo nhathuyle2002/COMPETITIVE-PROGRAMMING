@@ -1,0 +1,4 @@
+Bài đã làm (sau contest): A, B, C, D1, D2.
+Bài C có kèm thêm xử lí sai số, có tham khảo một vài sol và tìm được 1 vài cách hay để giải quyết sai số.
+Bài D1, D2 là 2 bài interactive => đã làm được.
+=> Vẫn còn cảm thấy lạ lẫm với dạng bài interactive
