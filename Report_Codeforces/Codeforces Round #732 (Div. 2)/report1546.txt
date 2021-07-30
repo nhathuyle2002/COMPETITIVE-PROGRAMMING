@@ -1,0 +1,4 @@
+Bài làm được: A, B, C, D
+Bài B làm hơi vội nên quên chưa sửa giới hạn mảng => runtime, đã sửa ngay sau đó (lỗi).
+Bài D: chủ yếu là kiến thức toán học về tổ hợp, sau khi nhận xét đưa về tính công thức tổ hợp, kết hợp sử dụng nghịch đảo modulo (998244353 là số nguyên tố).
+=> Cần tránh sai lỗi ngỡ ngẩn (quên chỉnh kích thước mảng).
