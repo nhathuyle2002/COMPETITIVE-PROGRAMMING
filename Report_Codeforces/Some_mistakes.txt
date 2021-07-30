@@ -1,0 +1,3 @@
+- lỗi sai kiểu dữ liệu biến
+- lỗi tràn mảng
+- chia lấy kq thập phân
