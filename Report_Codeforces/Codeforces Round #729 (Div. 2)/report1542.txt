@@ -1,0 +1,4 @@
+Bài làm được: C
+Bài C là dạng tham lam.
+Còn yếu phần quy hoạch động, nên chưa giải được bài D => đã đọc sol và giải được.
+=> Cần luyện phần QHĐ nhiều hơn.
