@@ -1,0 +1,4 @@
+Bài làm được: A, D
+Sau contest giải thêm B, C (chưa hoàn thành)
+Bài D là tuy là bài 2000đ nhưng nếu rút ra được nhận xét về măth toán học thì chỉ cần duyệt để giải quyết.
+=> Các bài 2000đ nếu là QHĐ hay interactive thì khá khó (hâu như không giải quyết được trong contest), các bài thiên về toán học hoặc tham lam thì dễ giải quyết hơn.
