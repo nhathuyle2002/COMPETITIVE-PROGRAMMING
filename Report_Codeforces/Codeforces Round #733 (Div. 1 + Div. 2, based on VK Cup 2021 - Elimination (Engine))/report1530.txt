@@ -1,0 +1,6 @@
+Bài làm được: A, B, C, D, E
+Bài C: chặt nhị phân
+Bài D: duyệt + tham lam
+Bài E: nhận xét đưa về 5 trường hợp có thể xảy ra + giải quyết từng trường hợp
+Đề lần này bài D và E đều là theo dạng nhận xét được bài toán đúng hướng thì có thể dễ dàng tìm được solution.
+=> Làm nhiều sẽ tăng sự nhạy bén trong việc nhận xét đề bài hơn.
